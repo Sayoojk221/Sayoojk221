@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Authenticate.com](https://authenticate.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.sayoojkeloth.com/](https://www.sayoojkeloth.com/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-sayooj.vercel.app/)
 
 
 
